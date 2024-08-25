@@ -38,4 +38,4 @@ function updateStatus() {
   statusElement.innerText = `Player ${player}'s turn`;
 }
 
-// You can add more interaction logic here, such as allowing players to select and move pieces.
+
